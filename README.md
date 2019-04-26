@@ -6,9 +6,11 @@
 <meta name="referrer" content="origin" />
     <title>快速傅里叶变换(FFT)详解 - 自为风月马前卒 - 博客园</title>
 <meta property="og:description" content="本文只讨论FFT在信息学奥赛中的应用 文中内容均为个人理解，如有错误请指出，不胜感激 前言 先解释几个比较容易混淆的缩写吧 DFT：离散傅里叶变换—&gt;$O(n^2)$计算多项式乘法 FFT：快速" />
+	
     <link type="text/css" rel="stylesheet" href="/bundles/blog-common.css?v=svlZeZMvc3He7PqOD4T7SOuQn0_kIfLBYiy3idqd35Y1"/>
 <link type="text/css" rel="stylesheet" href="/blog/customcss/330482.css?v=vA%2bD833DY7zo2MWAYtw3UYCtJog%3d"/>
 <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/CodingLife/bundle-CodingLife-mobile.css?v=nSeK_P8BAqpQ4UDLpcwd6yl-jVYCXnR833BwkQ30uqQ1"/>
+
     <link title="RSS" type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/zwfymqz/rss"/>
     <link title="RSD" type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/zwfymqz/rsd.xml"/>
 <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/zwfymqz/wlwmanifest.xml"/>
